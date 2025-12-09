@@ -5,6 +5,6 @@
     { "src": "riyaz.html", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "/riyaz.html" }
+    { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
